@@ -1,0 +1,10 @@
+requests >=2.25.0
+torch >=1.7.0
+torchtext >=0.8.0
+jieba >=0.40
+numpy >=1.19.1
+scipy >=1.5.4
+pandas >=1.1.5
+scikit-learn >=0.23.1
+matplotlib >=3.3.1
+synonyms >=3.10.1

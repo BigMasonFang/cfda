@@ -1,0 +1,12 @@
+2021-01-19 10:47:39,282 - __main__ - INFO - In Epoch[1]
+2021-01-19 10:47:40,384 - __main__ - INFO - The result of model on validation set is: 
+2021-01-19 10:47:40,384 - __main__ - INFO - Evaluation - loss: 0.570874  acc: 78.7989%(3464/4396) 
+
+2021-01-19 10:50:53,388 - __main__ - INFO - In Epoch[2]
+2021-01-19 10:50:54,492 - __main__ - INFO - The result of model on validation set is: 
+2021-01-19 10:50:54,493 - __main__ - INFO - Evaluation - loss: 0.571886  acc: 79.7998%(3508/4396) 
+
+2021-01-19 10:54:07,411 - __main__ - INFO - In Epoch[3]
+2021-01-19 10:54:08,513 - __main__ - INFO - The result of model on validation set is: 
+2021-01-19 10:54:08,514 - __main__ - INFO - Evaluation - loss: 0.633180  acc: 79.1856%(3481/4396) 
+
